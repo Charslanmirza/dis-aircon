@@ -1,5 +1,5 @@
-public class Clluoc {
+public class Cygnsh {
     public static void main() {
-        System.out.println("sgfjm");
+        System.out.println("nrslb");
     }
 }
